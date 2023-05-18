@@ -4,6 +4,7 @@ import os
 pygame.mixer.init()
 pygame.init()
 
+
 # Game specific variables...
 
 white = (255, 255, 255)
